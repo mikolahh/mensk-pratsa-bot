@@ -10,7 +10,8 @@ phpunit.xml.dist
 readme_for_github.html
 sftp.txt
 spark
-app/helpers/bot_helper.php
+app/Helpers/bot_helper.php
+app/Helpers/openai_helper.php
 public/errors
 public/error_log
 public/bot_logs.txt
